@@ -1,0 +1,17 @@
+# Compiled class files
+bin/
+*.class
+
+# Eclipse specific
+.metadata/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+
+# macOS / Windows files
+.DS_Store
+Thumbs.db
